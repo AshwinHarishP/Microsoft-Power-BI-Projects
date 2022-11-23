@@ -1,4 +1,4 @@
-                                                             About this project
+                                                       About this project
                                                                 
 Cyber crime is the major problem in today’s world. Also,cyber criminals are
 increasing day by day.We have a locker to protect our money and physical
@@ -18,7 +18,7 @@ So by observing the visuals we can say in which sectors the
 datas have been majorly breached and also we can conclude that our data is not
 protected completely.
 
-                                                             Data set preview
+                                                          Data set preview
                                 
 ![image 1](https://user-images.githubusercontent.com/99186533/202898539-4c10c0ea-1d56-46de-8ace-c69420c8eed6.png)
 
@@ -28,7 +28,7 @@ protected completely.
 
 
 
-                                                              Some visuals
+                                                           Some visuals
                                                               
    ![image3](https://user-images.githubusercontent.com/99186533/202898590-02e6085f-f6b2-4c64-9482-cb535151f5cc.png)
 
